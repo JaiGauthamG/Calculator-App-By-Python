@@ -1,5 +1,5 @@
 # Calculator-App-By-Python
-# This Is A Calculator CLI Thing-y APP In this You Can Do :
+## This Is A Calculator CLI Thing-y APP In this You Can Do :
 # 1.Additions.
 # 2.Subtractions.
 # 3.Divisions.
